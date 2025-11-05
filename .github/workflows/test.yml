@@ -1,4 +1,4 @@
-name: Pruebas automáticas del grupo
+name: Pruebas automaticas del grupo
 
 on:
   push:
