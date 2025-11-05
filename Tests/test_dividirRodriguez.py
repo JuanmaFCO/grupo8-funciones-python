@@ -1,5 +1,5 @@
 #tests/test_dividir.py
-from src.funciones.dividir import dividir
+from Funciones.dividirRodriguez import dividir
 
 def test_dividir():
 	assert dividir(10, 2) == 5
