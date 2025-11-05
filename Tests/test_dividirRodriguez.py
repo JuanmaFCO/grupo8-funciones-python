@@ -1,4 +1,4 @@
-#tests/test_dividir.py
+#Tests/test_dividirRodriguez.py
 from Funciones.dividirRodriguez import dividir
 
 def test_dividir():
