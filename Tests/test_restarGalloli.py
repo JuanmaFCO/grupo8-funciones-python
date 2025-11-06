@@ -1,6 +1,6 @@
 #tests/test_restar.py
 
-from Funciones.restarGalloli import restar
+from funciones.restarGalloli import restar
 
 def test_restar():
  assert restar(10, 4) == 6
